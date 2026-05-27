@@ -154,7 +154,7 @@ export default function Room({
   paperScore,
   setPaperScore
 }) {
-  const { scene } = useGLTF('/src/assets/resume-room.glb')
+  const { scene } = useGLTF('/resume-room.glb')
 
   const [papers, setPapers] = useState([
     {
