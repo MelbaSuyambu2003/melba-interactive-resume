@@ -70,4 +70,4 @@ npm run dev
 
 ## GitHub Repository
 
-[https://github.com/MelbaSuyambu2003/melba-interactive-resume]
+[https://github.com/MelbaSuyambu2003/melba-interactive-resume.git]
