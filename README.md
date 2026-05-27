@@ -1,16 +1,98 @@
-# React + Vite
+# Interactive 3D Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive 3D portfolio and resume experience built using Blender, React Three Fiber and Three.js.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Interactive 3D floating office environment
+- Resume information reveal system
+- WASD movement controls
+- Orbit camera controls
+- Paper toss mini game
+- Progress tracking system
+- Floating particles environment
+- Interactive glowing nodes
+- Start screen and completion screen
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Three.js
+- React Three Fiber
+- Drei
+- Blender
+
+---
+
+## Resume Sections
+
+- Introduction
+- Projects
+- Skills
+- Education
+- Certifications
+- Contact Information
+
+---
+
+## Controls
+
+| Action | Control |
+|---|---|
+| Move | W A S D |
+| Rotate Camera | Left Mouse Drag |
+| Pan Camera | Right Mouse Drag |
+| Zoom | Mouse Wheel |
+| Reveal Resume Info | Click glowing nodes |
+| Start Paper Toss Game | Press E |
+
+---
+
+## Projects Included
+
+### Smart Crime Investigation Management System
+
+AI-assisted investigation workflow and evidence management system.
+
+### Multi-Document Q&A System using GenAI + RAG
+
+Retrieval-Augmented Generation based intelligent document assistant.
+
+### Women’s Healthcare Access & Analysis Dashboard
+
+Healthcare analytics dashboard for understanding accessibility trends and insights.
+
+---
+
+## Certifications
+
+- Python for Data Science — NPTEL Elite Silver
+- Advanced Data Analytics — Coursera
+- Three.js Journey — Bruno Simon
+- AI Generalist Level 1 — Deloitte
+
+---
+
+## Setup Instructions
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## Live Demo
+
+[https://melba-interactive-resume-lpmk.vercel.app/]
+
+---
+
+## GitHub Repository
+
+[https://github.com/MelbaSuyambu2003/melba-interactive-resume]
