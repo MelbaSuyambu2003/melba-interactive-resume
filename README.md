@@ -53,31 +53,6 @@ An interactive 3D portfolio and resume experience built using Blender, React Thr
 
 ---
 
-## Projects Included
-
-### Smart Crime Investigation Management System
-
-AI-assisted investigation workflow and evidence management system.
-
-### Multi-Document Q&A System using GenAI + RAG
-
-Retrieval-Augmented Generation based intelligent document assistant.
-
-### Women’s Healthcare Access & Analysis Dashboard
-
-Healthcare analytics dashboard for understanding accessibility trends and insights.
-
----
-
-## Certifications
-
-- Python for Data Science — NPTEL Elite Silver
-- Advanced Data Analytics — Coursera
-- Three.js Journey — Bruno Simon
-- AI Generalist Level 1 — Deloitte
-
----
-
 ## Setup Instructions
 
 ```bash
